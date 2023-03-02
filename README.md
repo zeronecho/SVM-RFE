@@ -23,3 +23,7 @@ python -c "import sklearn; sklearn.show_versions()"
 检查安装。（python的-c 可以直接在命令行中调用python代码, 实际上-c 就是command 的意思。简言之就是python -c 可以在命令行中执行python 代码,）
 
 官网参考：https://scikit-learn.org/stable/install.html 
+
+## RFE 学习参考
+
+官网参考：https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html#sklearn.feature_selection.RFE
